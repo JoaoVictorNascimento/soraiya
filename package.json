@@ -1,0 +1,31 @@
+{
+    "name": "soraiya",
+    "version": "1.0.1",
+    "description": "Soraiya",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JoaoVictorNascimento/soraiya.git"
+    },
+    "keywords": [
+        "soraiya"
+    ],
+    "author": {
+        "name": "João Victor Nascimento",
+        "url": "https://github.com/JoaoVictorNascimento/soraiya"
+    },
+    "license": "MIT",
+    "bin": {
+        "soraiya": "./index.js"
+    },
+    "bugs": {
+        "url": "https://github.com/JoaoVictorNascimento/soraiya/issues"
+    },
+    "homepage": "https://github.com/JoaoVictorNascimento/soraiya#readme",
+    "dependencies": {
+        "ramda": "^0.26.1"
+    }
+}
